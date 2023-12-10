@@ -4,7 +4,7 @@
 - 👀 I have a keen interest in 💻 Typescript.
 - 🔭 As a MERN Stack developer, I specialize in building web applications using MongoDB, Express, React, and Node.js.
 - 🌱 I am currently expanding my knowledge and skills with Typescript.
-- 👨‍💻 You can check out my portfolio at 🌐 https://avishkadev.com.
+- 👨‍💻 You can check out my portfolio at 🌐 https://avishka.vercel.app
 - 💞️ I am always open to collaborating on exciting projects that challenge me and help me grow.
 - 📫 To get in touch with me, please feel free to email me at 📧 contact@avishkadev.com
 
