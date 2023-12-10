@@ -6,7 +6,7 @@
 - 🌱 I am currently expanding my knowledge and skills with Typescript.
 - 👨‍💻 You can check out my portfolio at 🌐 https://avishka.vercel.app
 - 💞️ I am always open to collaborating on exciting projects that challenge me and help me grow.
-- 📫 To get in touch with me, please feel free to email me at 📧 contact@avishkadev.com
+- 📫 To get in touch with me, please feel free to email me at 📧 avishka-website@gmail.com
 
 <!--
 **avishka-devinda/avishka-devinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
